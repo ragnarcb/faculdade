@@ -33,6 +33,10 @@ body{
     color: var(--cor-fonte);
 }
 
+.Social a {
+    margin-right: 5px;
+    margin-left: 5px;
+}
 
 /*------------------------------*/
 /* Lateral da Página*/
